@@ -1,0 +1,13 @@
+Use Items
+
+arduino uno x2
+4channel relay ->  ssr relay // contectless relay, solve the noise problem 
+hc-06 bluetooth module
+apds-9960 gesture module // recognize the motion
+nRF24L01 // radio communication module
+LCD module
+breadboard
+battery holder
+ac220v fan
+E26 socket
+
